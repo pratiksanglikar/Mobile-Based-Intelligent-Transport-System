@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jgit,1.1.0.201109151100-r,"org.eclipse.jgit",1356687615301
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1356687615301
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r371_v20110824-0800,"org.eclipse.ltk.core.refactoring",1356687615301
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring",1356687615317
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.6.2.v20110903-0100,"org.eclipse.mylyn.bugzilla.core",1356687615317
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.bugzilla.ui",1356687615317
+started,bundle,org.eclipse.mylyn.commons.identity,0.8.0.v20110608-1400,"org.eclipse.mylyn.commons.identity",1356687615332
+started,bundle,org.eclipse.mylyn.commons.net,3.6.0.v20110608-1400,"org.eclipse.mylyn.commons.net",1356687615332
+started,bundle,org.eclipse.mylyn.commons.ui,3.6.1.v20110720-0100,"org.eclipse.mylyn.commons.ui",1356687615332
+started,bundle,org.eclipse.mylyn.context.core,3.6.1.v20110720-0100,"org.eclipse.mylyn.context.core",1356687615332
+started,bundle,org.eclipse.mylyn.context.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.context.ui",1356687615363
+started,bundle,org.eclipse.mylyn.monitor.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.monitor.ui",1356687615363
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.2.v20110826-0100,"org.eclipse.mylyn.tasks.ui",1356687615675
+started,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1356687615675
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1356687615675
+started,bundle,org.eclipse.pde.ui,3.6.100.v20110603,"org.eclipse.pde.ui",1356687615707
+started,bundle,org.eclipse.search,3.7.0.v20110505-0800,"org.eclipse.search",1356687615722
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1356687615722
+started,bundle,org.eclipse.team.ui,3.6.100.I20110525-0800,"org.eclipse.team.ui",1356687615738
+started,bundle,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui",1356687615753
+started,bundle,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console",1356687615769
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110517-0800,"org.eclipse.ui.editors",1356687615769
+started,bundle,org.eclipse.ui.forms,3.5.100.v20110425,"org.eclipse.ui.forms",1356687615769
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.ide",1356687615769
+started,bundle,org.eclipse.ui.net,1.2.100.I20110511-0800,"org.eclipse.ui.net",1356687615785
+started,bundle,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views",1356687615785
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1356687615785
+started,bundle,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"org.eclipse.ui.workbench",1356687615785
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.workbench.texteditor",1356687615785
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1356687615785
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1356687615800
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1356687615800
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1356687615800
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1356687615816
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1356687615816
+started,bundle,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.adt",1356687615816
+started,bundle,com.android.ide.eclipse.base,21.0.0.v201210310015-519525,"com.android.ide.eclipse.base",1356687615816
+started,bundle,org.eclipse.cdt.codan.ui.cxx,2.0.0.201202111925,"org.eclipse.cdt.codan.ui.cxx",1356687615816
+started,bundle,org.eclipse.cdt.dsf,2.2.0.201202111925,"org.eclipse.cdt.dsf",1356687615816
+started,bundle,org.eclipse.cdt.dsf.gdb,4.0.2.201202111925,"org.eclipse.cdt.dsf.gdb",1356687615816
+started,bundle,org.eclipse.cdt.dsf.gdb.ui,2.2.1.201202111925,"org.eclipse.cdt.dsf.gdb.ui",1356687615831
+started,bundle,org.eclipse.emf.common,2.7.0.v20120127-1122,"org.eclipse.emf.common",1356687615831
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1356687615831
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1356687615831
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1356687615831
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1356687615831
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1356687615831
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1356687615847
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1356687615847
+os,sysinfo,,,"win32",1356687615863
+arch,sysinfo,,,"x86",1356687615863
+ws,sysinfo,,,"win32",1356687615863
+locale,sysinfo,,,"en_US",1356687615863
+processors,sysinfo,,,"4",1356687615863
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1356687615863
+java.runtime.version,sysinfo,,,"1.6.0_31-b05",1356687615863
+java.specification.name,sysinfo,,,"Java Platform API Specification",1356687615863
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1356687615863
+java.specification.version,sysinfo,,,"1.6",1356687615863
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1356687615863
+java.version,sysinfo,,,"1.6.0_31",1356687615863
+java.vm.info,sysinfo,,,"mixed mode",1356687615863
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1356687615863
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1356687615863
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1356687615863
+java.vm.specification.version,sysinfo,,,"1.0",1356687615863
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1356687615863
+java.vm.version,sysinfo,,,"20.6-b01",1356687615863
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1356687616159
+started,bundle,org.eclipse.team.cvs.ui,3.3.400.I20110510-0800,"org.eclipse.team.cvs.ui",1356687616393
+started,bundle,org.eclipse.cdt.make.core,7.1.2.201202111925,"org.eclipse.cdt.make.core",1356687617579
+started,bundle,org.eclipse.cdt.managedbuilder.core,8.0.2.201202111925,"org.eclipse.cdt.managedbuilder.core",1356687618795
+started,bundle,org.eclipse.cdt.core,5.3.2.201202111925,"org.eclipse.cdt.core",1356687619778
+started,bundle,org.eclipse.ui.navigator,3.5.100.v20110809-2227,"org.eclipse.ui.navigator",1356687620324
+started,bundle,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui",1356687623179
+started,bundle,org.eclipse.cdt.codan.core.cxx,1.0.0.201202111925,"org.eclipse.cdt.codan.core.cxx",1356687623226
+started,bundle,org.eclipse.cdt.codan.core,2.0.0.201202111925,"org.eclipse.cdt.codan.core",1356687623351
+started,bundle,org.eclipse.cdt.codan.checkers,1.0.1.201202111925,"org.eclipse.cdt.codan.checkers",1356687623569
+started,bundle,org.eclipse.cdt.make.ui,7.1.2.201202111925,"org.eclipse.cdt.make.ui",1356687623585
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356687625597
+started,bundle,org.eclipse.compare,3.5.201.R37x_v20110817-0800,"org.eclipse.compare",1356687642461
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356687659605
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356687673473
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.export",1356687673489
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.export",1356687673489
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1356687687014
+started,bundle,org.eclipse.cdt.debug.core,7.1.0.201202111925,"org.eclipse.cdt.debug.core",1356687687139
+started,bundle,org.eclipse.cdt.debug.ui,7.1.2.201202111925,"org.eclipse.cdt.debug.ui",1356687687155
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1356687713503
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1356687713581
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1356687713753
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356687714096
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356687915961
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356687924463
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356687940781
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356687941889
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356688062073
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.copy.qualified.name",1356688065910
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356688067580
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356688074303
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.copy.qualified.name",1356688081089
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356688082446
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689503841
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\AndroidManifest.xml in workspace",1356689517632
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values\\maps_attrs.xml in workspace",1356689517694
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values\\strings.xml in workspace",1356689517694
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-af\\strings.xml in workspace",1356689517710
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-am\\strings.xml in workspace",1356689517725
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-ar\\strings.xml in workspace",1356689517788
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-be\\strings.xml in workspace",1356689517803
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-bg\\strings.xml in workspace",1356689517803
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-ca\\strings.xml in workspace",1356689517803
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-cs\\strings.xml in workspace",1356689517819
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-da\\strings.xml in workspace",1356689517834
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-de\\strings.xml in workspace",1356689517834
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-el\\strings.xml in workspace",1356689517834
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-en-rGB\\strings.xml in workspace",1356689517850
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-es\\strings.xml in workspace",1356689517850
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-es-rUS\\strings.xml in workspace",1356689517881
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-et\\strings.xml in workspace",1356689517881
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-fa\\strings.xml in workspace",1356689517897
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-fi\\strings.xml in workspace",1356689517897
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-fr\\strings.xml in workspace",1356689517897
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-hi\\strings.xml in workspace",1356689517912
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-hr\\strings.xml in workspace",1356689517912
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-hu\\strings.xml in workspace",1356689517912
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-in\\strings.xml in workspace",1356689517928
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-it\\strings.xml in workspace",1356689517928
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-iw\\strings.xml in workspace",1356689517928
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-ja\\strings.xml in workspace",1356689517944
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-ko\\strings.xml in workspace",1356689517944
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-lt\\strings.xml in workspace",1356689517944
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-lv\\strings.xml in workspace",1356689517944
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-ms\\strings.xml in workspace",1356689517944
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-nb\\strings.xml in workspace",1356689517959
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-nl\\strings.xml in workspace",1356689517959
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-pl\\strings.xml in workspace",1356689517975
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-pt\\strings.xml in workspace",1356689517975
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-pt-rPT\\strings.xml in workspace",1356689517990
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-ro\\strings.xml in workspace",1356689517990
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-ru\\strings.xml in workspace",1356689517990
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-sk\\strings.xml in workspace",1356689517990
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-sl\\strings.xml in workspace",1356689517990
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-sr\\strings.xml in workspace",1356689517990
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-sv\\strings.xml in workspace",1356689518006
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-sw\\strings.xml in workspace",1356689518006
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-th\\strings.xml in workspace",1356689518006
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-tl\\strings.xml in workspace",1356689518006
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-tr\\strings.xml in workspace",1356689518006
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-uk\\strings.xml in workspace",1356689518006
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-vi\\strings.xml in workspace",1356689518022
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-zh-rCN\\strings.xml in workspace",1356689518022
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-zh-rTW\\strings.xml in workspace",1356689518022
+error,log,,,"Can't find file D:\\Android SDK\\extras\\google\\google_play_services\\libproject\\google-play-services_lib\\res\\values-zu\\strings.xml in workspace",1356689518022
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689518146
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689525088
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689533512
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20110802_r371,"org.eclipse.jdt.debug",1356689533778
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1356689533934
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689534012
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1356689534230
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356689547662
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689553948
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689554026
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356689556694
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689559346
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689561795
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689561873
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1356689561873
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689569283
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689588378
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689590390
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.cleanAction",1356689590406
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1356689607519
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689609453
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1356689614009
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689614009
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356689619281
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689800226
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689800320
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356689838493
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689873343
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689914964
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1356689914980
+opened,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356689921220
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356689921345
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356689931766
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689934511
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356689948785
+opened,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356689961374
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356689961468
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356689970578
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356689971577
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356689985071
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690002933
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356690005678
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356690014945
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690017675
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690033790
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690043820
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690046800
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1356690061293
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356690063118
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356690073804
+closed,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356690073804
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356690082696
+closed,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356690082711
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356690087781
+opened,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356690090355
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1356690090465
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1356690110245
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1356690111447
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1356690112929
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1356690117078
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1356690126797
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690130884
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690174643
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1356690174659
+started,bundle,org.eclipse.pde.core,3.7.1.v20110822-2108,"org.eclipse.pde.core",1356690177280
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690178731
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690180743
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1356690180743
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1356690188605
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1356690216763
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1356690216795

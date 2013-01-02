@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+D:\BEProjectJ2EEInterface\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2222119149.index
+\BeanDemo\src
+D:\BEProjectJ2EEInterface\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1207239963.index
+\JSPDemo\src

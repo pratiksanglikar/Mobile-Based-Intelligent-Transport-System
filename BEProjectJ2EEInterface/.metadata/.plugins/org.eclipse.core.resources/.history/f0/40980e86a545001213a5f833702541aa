@@ -1,0 +1,62 @@
+
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class FirstServlet
+ */
+public class SampleServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public SampleServlet() 
+    {
+       super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see Servlet#init(ServletConfig)
+	 */
+	public void init(ServletConfig config) throws ServletException 
+	{
+		System.out.println("In init() method..");
+	}
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
+	{
+		
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
+	{
+		String usrname,pwd;
+		System.out.println("In post() method...");
+		PrintWriter io = response.getWriter();
+		usrname = request.getParameter("username");
+		pwd = request.getParameter("pwd");
+		io.println("<html>");
+		if(usrname.equals("pratiksanglikar")&& pwd.equals("pratik2901"))
+			io.println("Authenticated !!!");
+		else
+			io.print("Invalid username password combination incorrect !! please try again !!!");
+		//io.println(request.getParameter("username") + request.getParameter("pwd"));
+		io.println("</html>");
+	}
+
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/src.zip"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/alt-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/alt-string.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/deploy/ffjcext.zip"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/jdk160_29/fastdebug/jre/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="C:/Oracle/Middleware/modules/javax.servlet_2.0.0.0_3-0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

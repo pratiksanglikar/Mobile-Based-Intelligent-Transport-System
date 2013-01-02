@@ -1,0 +1,3 @@
+D\:/BEProjectJ2EEInterface/Sample1/WebContent = Sample1.war
+D\:/BEProjectJ2EEInterface/Sample1/build/weboutput = Sample1.war
+D\:/BEProjectJ2EEInterface/Sample1/build/classes = Sample1.war/WEB-INF/classes

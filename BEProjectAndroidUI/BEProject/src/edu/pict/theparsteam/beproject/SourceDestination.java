@@ -1,0 +1,63 @@
+package edu.pict.theparsteam.beproject;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.AutoCompleteTextView;
+import android.widget.Button;
+import android.widget.Toast;
+
+public class SourceDestination extends Activity
+{
+	Button get_routes;
+	AutoCompleteTextView source;
+	AutoCompleteTextView destination;
+	String j_source,j_destination;
+	@Override
+	protected void onCreate(Bundle SavedInstance)
+	{
+		
+		super.onCreate(SavedInstance);
+		setContentView(R.layout.activity_source_destination);
+		findViews();
+		get_routes.setOnClickListener(new View.OnClickListener() 
+		{
+//			String received_response = null;
+			
+			@Override
+			public void onClick(View v) 
+			{
+				j_source = source.getText().toString();
+				j_destination = destination.getText().toString();
+				try
+				{
+					//new NetworkHandler().execute(j_source,j_destination);
+					//startActivity(new MapsActivity().getIntent());
+					Intent myIntent = new Intent(SourceDestination.this, Maps1Activity.class);
+					SourceDestination.this.startActivity(myIntent);
+					
+				}
+				catch(Exception e)
+				{
+					Toast toast=Toast.makeText(getApplicationContext(), "Some Error occured !!!" + e.getMessage(), Toast.LENGTH_SHORT);  
+			        toast.show();
+				}
+			}
+		});
+	}
+	
+
+	public void findViews()
+	{
+		get_routes = (Button) findViewById(R.id.button_get_directions);
+		source = (AutoCompleteTextView) findViewById(R.id.editText_source);
+		destination = (AutoCompleteTextView) findViewById(R.id.editText_destination);
+	}
+	
+	public Context getObject()
+	{
+		return this;
+	}
+}

@@ -1,0 +1,326 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301649002
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301651867
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301656269
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301657414
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301657439
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301657444
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301659954
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301664269
+error,log,,,"activity_itslogin.xml: Failed to configure parser for D:\\BEProjectAndroidUI\\Step1\\res\\drawable-hdpi\\ic_launcher.png",1355301671399
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301681734
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301683930
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301685822
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301686913
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301788588
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301792263
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301863193
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1355301885312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1355301896132
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355301897448
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302340844
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302346784
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302426986
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302433389
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302435426
+error,log,,,"No command output when running: 'am start -n timepass.step1/timepass.step1.ITSLogin -a android.intent.action.MAIN -c android.intent.category.LAUNCHER' on device emulator-5554",1355302692568
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302919718
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302924072
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302979757
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355302986896
+activated,view,com.android.ide.eclipse.ddms,21.0.0.v201210310015-519525,"com.android.ide.eclipse.ddms.views.LogCatView",1355303294588
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355303849143
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355303864109
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.select.lineEnd",1355303871448
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.toggle.comment",1355303874154
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355303894241
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355303896396
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355303900351
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355303963721
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355303969961
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355303976440
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1355303981267
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355303982523
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355303984500
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1355303987075
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355303999004
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355303999034
+closed,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355303999055
+opened,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355304010963
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355304011026
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.views.showView",1355304011027
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355304028602
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355304033278
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355304034178
+error,log,,,"activity_itslogin.xml: Failed to configure parser for D:\\BEProjectAndroidUI\\Step1\\res\\drawable-hdpi\\ic_launcher.png",1355304036023
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355304040757
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355304098849
+activated,view,com.android.ide.eclipse.ddms,21.0.0.v201210310015-519525,"com.android.ide.eclipse.ddms.views.LogCatView",1355304104229
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355304136636
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355304138918
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355304168038
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355304173779
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355304201744
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355304210005
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355305747633
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355305751676
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355305754055
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1355305754070
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355305755587
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355305760725
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355305763795
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355305780765
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355305782096
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355320753335
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355320758306
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355320758484
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355320776465
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355320779770
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355320871556
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355320877223
+error,log,,,"No command output when running: 'am start -n timepass.step1/timepass.step1.ITSLogin -a android.intent.action.MAIN -c android.intent.category.LAUNCHER' on device emulator-5556",1355320891276
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355321840673
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355321841271
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355322770111
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355322774011
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355322779491
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355322783661
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355322792176
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355322795601
+closed,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355322795641
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355322795841
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1355322795846
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355322795846
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355322801171
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1355322995506
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1355322995586
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1355322995591
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1355322995686
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1355322995691
+error,log,,,"Failed to load properties file for project 'BEProject'",1355322995791
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355322996096
+opened,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355322996281
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355322996326
+error,log,,,"Unhandled event loop exception",1355323018301
+error,log,,,"Unhandled event loop exception",1355323018306
+error,log,,,"Unhandled event loop exception",1355323018346
+error,log,,,"Unhandled event loop exception",1355323018351
+error,log,,,"Unhandled event loop exception",1355323018381
+error,log,,,"Unhandled event loop exception",1355323018386
+error,log,,,"Unhandled event loop exception",1355323018431
+error,log,,,"Unhandled event loop exception",1355323018446
+error,log,,,"Unhandled event loop exception",1355323018601
+error,log,,,"Unhandled event loop exception",1355323018686
+error,log,,,"Unhandled event loop exception",1355323019731
+error,log,,,"Unhandled event loop exception",1355323019731
+error,log,,,"Unhandled event loop exception",1355323019791
+error,log,,,"Unhandled event loop exception",1355323019796
+error,log,,,"Unhandled event loop exception",1355323019811
+error,log,,,"Unhandled event loop exception",1355323019821
+error,log,,,"Unhandled event loop exception",1355323019836
+error,log,,,"Unhandled event loop exception",1355323019846
+error,log,,,"Unhandled event loop exception",1355323019861
+error,log,,,"Unhandled event loop exception",1355323019871
+error,log,,,"Unhandled event loop exception",1355323019881
+error,log,,,"Unhandled event loop exception",1355323019896
+error,log,,,"Unhandled event loop exception",1355323019906
+error,log,,,"Unhandled event loop exception",1355323019921
+error,log,,,"Unhandled event loop exception",1355323019931
+error,log,,,"Unhandled event loop exception",1355323019946
+error,log,,,"Unhandled event loop exception",1355323019956
+error,log,,,"Unhandled event loop exception",1355323019966
+error,log,,,"Unhandled event loop exception",1355323019981
+error,log,,,"Unhandled event loop exception",1355323019991
+error,log,,,"Unhandled event loop exception",1355323020001
+error,log,,,"Unhandled event loop exception",1355323020016
+error,log,,,"Unhandled event loop exception",1355323020026
+error,log,,,"Unhandled event loop exception",1355323020041
+error,log,,,"Unhandled event loop exception",1355323020051
+error,log,,,"Unhandled event loop exception",1355323020061
+error,log,,,"Unhandled event loop exception",1355323020076
+error,log,,,"Unhandled event loop exception",1355323020086
+error,log,,,"Unhandled event loop exception",1355323020101
+error,log,,,"Unhandled event loop exception",1355323020111
+error,log,,,"Unhandled event loop exception",1355323020231
+error,log,,,"Unhandled event loop exception",1355323020266
+error,log,,,"Unhandled event loop exception",1355323021656
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1355323025386
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355323028596
+error,log,,,"Unhandled event loop exception",1355323028741
+error,log,,,"Unhandled event loop exception",1355323029326
+error,log,,,"Unhandled event loop exception",1355323029616
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323045176
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323045386
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323045571
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323045776
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323046036
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323046331
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323046601
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1355323047696
+error,log,,,"Unhandled event loop exception",1355323054721
+error,log,,,"Unhandled event loop exception",1355323057351
+error,log,,,"Unhandled event loop exception",1355323059941
+error,log,,,"Unhandled event loop exception",1355323063886
+error,log,,,"Unhandled event loop exception",1355323064161
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323065611
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323067191
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323072346
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323077436
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1355323077446
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355323078276
+error,log,,,"Unhandled event loop exception",1355323078381
+error,log,,,"Unhandled event loop exception",1355323091466
+error,log,,,"Unhandled event loop exception",1355323091806
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323093576
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323095016
+error,log,,,"Unhandled event loop exception",1355323095771
+error,log,,,"Unhandled event loop exception",1355323096286
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323097526
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323101651
+error,log,,,"Unhandled event loop exception",1355323103096
+error,log,,,"Unhandled event loop exception",1355323103761
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323105346
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323107191
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323108666
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323116036
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323118716
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323120476
+error,log,,,"Unhandled event loop exception",1355323122311
+error,log,,,"Unhandled event loop exception",1355323122551
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323123636
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323128331
+error,log,,,"Unhandled event loop exception",1355323148866
+error,log,,,"Unhandled event loop exception",1355323149196
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355323151541
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323164736
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323171261
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323171771
+error,log,,,"Internal Error",1355323183561
+error,log,,,"Problems encountered while moving resources.",1355323183566
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323189046
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.rename.element",1355323189066
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323193206
+error,log,,,"Internal Error",1355323194756
+error,log,,,"Problems encountered while deleting resources.",1355323194761
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323197191
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323197216
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323201381
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323205041
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323210361
+error,log,,,"Internal Error",1355323210756
+error,log,,,"Problems encountered while deleting resources.",1355323210756
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323212551
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323212576
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323217041
+error,log,,,"Internal Error",1355323218156
+error,log,,,"Problems encountered while deleting resources.",1355323218156
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323219046
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323219076
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.closeProject",1355323224322
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323236967
+error,log,,,"Internal Error",1355323237537
+error,log,,,"Problems encountered while deleting resources.",1355323237537
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323238382
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323238407
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323247077
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323277077
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323280517
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323281042
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355323281047
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323283792
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323300552
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355323303712
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325089234
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355325090489
+error,log,,,"Unhandled event loop exception",1355325090629
+error,log,,,"Unhandled event loop exception",1355325091539
+error,log,,,"Unhandled event loop exception",1355325092594
+error,log,,,"Unhandled event loop exception",1355325092824
+error,log,,,"Unhandled event loop exception",1355325093274
+error,log,,,"Unhandled event loop exception",1355325093934
+error,log,,,"Unhandled event loop exception",1355325094109
+error,log,,,"Unhandled event loop exception",1355325094644
+error,log,,,"Unhandled event loop exception",1355325094974
+error,log,,,"Unhandled event loop exception",1355325095339
+error,log,,,"Unhandled event loop exception",1355325095549
+error,log,,,"Unhandled event loop exception",1355325096479
+error,log,,,"Unhandled event loop exception",1355325097049
+error,log,,,"Unhandled event loop exception",1355325097084
+error,log,,,"Unhandled event loop exception",1355325097114
+error,log,,,"Unhandled event loop exception",1355325097144
+error,log,,,"Unhandled event loop exception",1355325097174
+error,log,,,"Unhandled event loop exception",1355325097204
+error,log,,,"Unhandled event loop exception",1355325097239
+error,log,,,"Unhandled event loop exception",1355325097269
+error,log,,,"Unhandled event loop exception",1355325097299
+error,log,,,"Unhandled event loop exception",1355325097329
+error,log,,,"Unhandled event loop exception",1355325097364
+error,log,,,"Unhandled event loop exception",1355325097394
+error,log,,,"Unhandled event loop exception",1355325097424
+error,log,,,"Unhandled event loop exception",1355325097454
+error,log,,,"Unhandled event loop exception",1355325097489
+error,log,,,"Unhandled event loop exception",1355325097519
+error,log,,,"Unhandled event loop exception",1355325097554
+error,log,,,"Unhandled event loop exception",1355325097579
+error,log,,,"Unhandled event loop exception",1355325097614
+error,log,,,"Unhandled event loop exception",1355325097644
+error,log,,,"Unhandled event loop exception",1355325097674
+error,log,,,"Unhandled event loop exception",1355325097704
+error,log,,,"Unhandled event loop exception",1355325097734
+error,log,,,"Unhandled event loop exception",1355325097749
+error,log,,,"Unhandled event loop exception",1355325098364
+error,log,,,"Unhandled event loop exception",1355325098719
+error,log,,,"Unhandled event loop exception",1355325099114
+error,log,,,"Unhandled event loop exception",1355325099234
+error,log,,,"Unhandled event loop exception",1355325099339
+error,log,,,"Unhandled event loop exception",1355325099454
+error,log,,,"Unhandled event loop exception",1355325099559
+error,log,,,"Unhandled event loop exception",1355325099644
+error,log,,,"Unhandled event loop exception",1355325099729
+error,log,,,"Unhandled event loop exception",1355325099824
+error,log,,,"Unhandled event loop exception",1355325100209
+error,log,,,"Unhandled event loop exception",1355325100364
+error,log,,,"Unhandled event loop exception",1355325100414
+error,log,,,"Unhandled event loop exception",1355325100599
+error,log,,,"Unhandled event loop exception",1355325100774
+error,log,,,"Unhandled event loop exception",1355325100899
+error,log,,,"Unhandled event loop exception",1355325102364
+error,log,,,"Unhandled event loop exception",1355325102784
+error,log,,,"Unhandled event loop exception",1355325103534
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325105564
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325108259
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325110784
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325113079
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325113264
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1355325229376
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325232811
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325236986
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325277855
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355325282652
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355325285202
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355325285297
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355325304782
+error,log,,,"Unhandled event loop exception",1355325312357
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355325314182
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355325316212
+error,log,,,"Unhandled event loop exception",1355325320892
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325324332
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325433191
+error,log,,,"Unhandled event loop exception",1355325434270
+error,log,,,"Unhandled event loop exception",1355325434695
+error,log,,,"Unhandled event loop exception",1355325435708
+error,log,,,"Unhandled event loop exception",1355325442805
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355325446552
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325448483
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1355325449749
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325449859
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355325449869
+activated,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355325453095
+error,log,,,"Unhandled event loop exception",1355325453228
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1355325456036
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325459627
+closed,editor,com.android.ide.eclipse.adt,21.0.0.v201210310015-519525,"com.android.ide.eclipse.editors.CommonXmlEditor",1355325461240
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325461301
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1355325461310
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325468670
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1355325524689
