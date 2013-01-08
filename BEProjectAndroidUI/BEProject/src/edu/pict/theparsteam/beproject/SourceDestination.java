@@ -12,9 +12,9 @@ import android.widget.Toast;
 public class SourceDestination extends Activity
 {
 	Button get_routes;
-	AutoCompleteTextView source;
-	AutoCompleteTextView destination;
-	String j_source,j_destination;
+	AutoCompleteTextView source_long,source_latt;
+	AutoCompleteTextView dest_long,dest_latt;
+	String s_long,s_latt,d_long,d_latt;
 	@Override
 	protected void onCreate(Bundle SavedInstance)
 	{
@@ -26,22 +26,26 @@ public class SourceDestination extends Activity
 		{
 //			String received_response = null;
 			
+			
+			@SuppressWarnings("unchecked")
 			@Override
 			public void onClick(View v) 
 			{
-				j_source = source.getText().toString();
-				j_destination = destination.getText().toString();
+				s_long = source_long.getText().toString();
+				s_latt = source_latt.getText().toString();
+				d_long = dest_long.getText().toString();
+				d_latt = dest_latt.getText().toString();
 				try
 				{
-					//new NetworkHandler().execute(j_source,j_destination);
+					new NetworkHandler().execute(s_long,s_latt,d_long,d_latt);
 					//startActivity(new MapsActivity().getIntent());
-					Intent myIntent = new Intent(SourceDestination.this, Maps1Activity.class);
-					SourceDestination.this.startActivity(myIntent);
+					//Intent myIntent = new Intent(SourceDestination.this, Maps1Activity.class);
+					//SourceDestination.this.startActivity(myIntent);
 					
 				}
 				catch(Exception e)
 				{
-					Toast toast=Toast.makeText(getApplicationContext(), "Some Error occured !!!" + e.getMessage(), Toast.LENGTH_SHORT);  
+					Toast toast=Toast.makeText(getApplicationContext(), "Some Error occured !!!" + e.toString(), Toast.LENGTH_SHORT);  
 			        toast.show();
 				}
 			}
@@ -52,8 +56,10 @@ public class SourceDestination extends Activity
 	public void findViews()
 	{
 		get_routes = (Button) findViewById(R.id.button_get_directions);
-		source = (AutoCompleteTextView) findViewById(R.id.editText_source);
-		destination = (AutoCompleteTextView) findViewById(R.id.editText_destination);
+		source_long = (AutoCompleteTextView) findViewById(R.id.editText_source_long);
+		source_latt = (AutoCompleteTextView) findViewById(R.id.editText_source_latt);
+		dest_long = (AutoCompleteTextView) findViewById(R.id.editText_dest_long);
+		dest_latt = (AutoCompleteTextView) findViewById(R.id.editText_dest_latt);
 	}
 	
 	public Context getObject()

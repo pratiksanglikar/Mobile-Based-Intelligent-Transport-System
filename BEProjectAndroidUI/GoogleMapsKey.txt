@@ -1,2 +1,4 @@
  PrivateKeyEntry,
- 39:A2:AD:08:87:A4:FB:B7:2C:98:41:0F:7D:06:AB:75
+MD5 fingerprint:  39:A2:AD:08:87:A4:FB:B7:2C:98:41:0F:7D:06:AB:75
+SHA1 fingerprint: 
+74:71:FA:30:32:F0:4A:4A:B7:54:06:F6:48:90:41:D1:00:C3:A9:CE;edu.pict.theparsteam.beproject

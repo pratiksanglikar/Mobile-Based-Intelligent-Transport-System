@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PARS ITS</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="button_get_routes">Get Routes</string>
+    <string name="edittext_id_source_long">edittext_id_source_long</string>
+    <string name="prompt_source_longitude">Enter Source Longitude</string>
+    <string name="prompt_source_lattitude">Enter Source Lattitude</string>
+    <string name="button_get_directions">Get Routes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps1">Maps1Activity</string>
+    <string name="Prompt_Destination_long">Enter Destination Longitude</string>
+    <string name="Prompt_Destination_lattitude">Enter Destination Lattitude</string>
+
+</resources>

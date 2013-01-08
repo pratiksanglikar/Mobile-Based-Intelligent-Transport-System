@@ -27,16 +27,16 @@ class NetworkHandler extends AsyncTask
 	protected Object doInBackground(Object... params) 
 	{
 		
-		j_source = (String)params[0];
-		j_destination = (String)params[1];
 		try
 		{
 			HttpClient hc = new DefaultHttpClient();
-			HttpPost post = new HttpPost("http://192.168.43.42:7001/Sample1/Servlet1");
+			HttpPost post = new HttpPost("http://192.168.1.6:7001/BEProject1/Servlet1");
 			//HttpPost post = new HttpPost("http://gmail.com");
-			List<NameValuePair> nameValuePairs = new ArrayList<NameValuePair>(2);
-	        nameValuePairs.add(new BasicNameValuePair("source",(String)params[0]));
-	        nameValuePairs.add(new BasicNameValuePair("destination",(String)params[1]));
+			List<NameValuePair> nameValuePairs = new ArrayList<NameValuePair>(4);
+	        nameValuePairs.add(new BasicNameValuePair("s_long",(String)params[0]));
+	        nameValuePairs.add(new BasicNameValuePair("s_latt",(String)params[1]));
+	        nameValuePairs.add(new BasicNameValuePair("d_long",(String)params[2]));
+	        nameValuePairs.add(new BasicNameValuePair("d_latt",(String)params[3]));
 	        post.setEntity(new UrlEncodedFormEntity(nameValuePairs));
 			HttpResponse rp = hc.execute(post);
 			if(rp.getStatusLine().getStatusCode() == HttpStatus.SC_OK)
@@ -45,21 +45,24 @@ class NetworkHandler extends AsyncTask
 			}
 			else
 			{
-				Toast toast=Toast.makeText(MyApplication.getAppContext(), "Error : " + rp.getStatusLine().getStatusCode() , Toast.LENGTH_SHORT);
-				toast.show();
+				/*Toast toast=Toast.makeText(MyApplication.getAppContext(), "Error : " + rp.getStatusLine().getStatusCode() , Toast.LENGTH_SHORT);
+				toast.show();*/
+				str=rp.getStatusLine().toString();
 			}
 		}
 		catch(IOException e)
-		{
+		{/*
 			e.printStackTrace();
 			Toast toast=Toast.makeText(MyApplication.getAppContext(), "Error : " + e.toString() , Toast.LENGTH_SHORT);  
-			toast.show();
+			toast.show();*/
+			str=e.toString();
 		}
 		catch(Exception e)
 		{
-			e.printStackTrace();
+			/*e.printStackTrace();
 			Toast toast=Toast.makeText(MyApplication.getAppContext(), "Error : " + e.toString() , Toast.LENGTH_SHORT);
-			toast.show();
+			toast.show();*/
+			str=e.toString();
 		}
 		return str;
 	}
@@ -67,7 +70,8 @@ class NetworkHandler extends AsyncTask
 	@Override
 	protected void onPostExecute(Object result) 
 	{
-		Toast toast=Toast.makeText(MyApplication.getAppContext(), "Button Pressed !!! \nSource: "+j_source+"\nDestination: "+j_destination+"\n Response : "+ str , Toast.LENGTH_SHORT);  
+		//Toast toast=Toast.makeText(MyApplication.getAppContext(), "Button Pressed !!! \nSource: "+j_source+"\nDestination: "+j_destination+"\n Response : "+ str , Toast.LENGTH_SHORT);
+		Toast toast=Toast.makeText(MyApplication.getAppContext(), "Button Pressed !!! Response : "+ str , Toast.LENGTH_SHORT);
 		toast.show();
 	}
 	

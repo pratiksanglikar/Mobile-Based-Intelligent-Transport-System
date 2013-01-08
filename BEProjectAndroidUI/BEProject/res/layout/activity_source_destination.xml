@@ -23,35 +23,59 @@
         android:background="@drawable/flash_screen" >
 
         <AutoCompleteTextView
-            android:id="@+id/editText_destination"
+            android:id="@+id/editText_source_long"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignRight="@+id/editText_source"
-            android:layout_below="@+id/editText_source"
-            android:layout_marginTop="22dp"
+            android:layout_alignLeft="@+id/editText_source_latt"
+            android:layout_below="@+id/button_get_directions"
+            android:layout_marginTop="50dp"
             android:ems="10"
-            android:text="@string/prompt_destination" />
+            android:inputType="numberDecimal"
+            android:text="@string/prompt_source_longitude" />
+
+        <AutoCompleteTextView
+            android:id="@+id/editText_source_latt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/editText_source_long"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="17dp"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:text="@string/prompt_source_lattitude" />
+
+        <AutoCompleteTextView
+            android:id="@+id/editText_dest_long"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editText_source_latt"
+            android:layout_below="@+id/editText_source_latt"
+            android:layout_marginTop="21dp"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:text="@string/Prompt_Destination_long" />
+
+        <AutoCompleteTextView
+            android:id="@+id/editText_dest_latt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editText_dest_long"
+            android:layout_below="@+id/editText_dest_long"
+            android:layout_marginTop="19dp"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:text="@string/Prompt_Destination_lattitude" />
 
         <Button
             android:id="@+id/button_get_directions"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignLeft="@+id/editText_destination"
-            android:layout_alignParentBottom="true"
-            android:layout_alignRight="@+id/editText_destination"
-            android:layout_marginBottom="88dp"
-            android:text="@string/button_get_routes" />
-
-        <AutoCompleteTextView
-            android:id="@+id/editText_source"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
             android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"
-            android:layout_marginRight="25dp"
-            android:layout_marginTop="79dp"
-            android:ems="10"
-            android:text="@string/prompt_source" />
+            android:layout_marginTop="25dp"
+            android:text="@string/button_get_routes" />
 
     </RelativeLayout>
 

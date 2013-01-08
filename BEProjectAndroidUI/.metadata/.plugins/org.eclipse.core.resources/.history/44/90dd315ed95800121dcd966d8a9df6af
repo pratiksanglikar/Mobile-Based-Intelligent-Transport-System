@@ -1,0 +1,76 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/flash1_screen"
+    tools:context=".SourceDestination" >
+
+    <!--
+         The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc.
+    -->
+
+    <!--
+         This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows.
+    -->
+
+    <RelativeLayout
+        android:id="@+id/realtive_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/flash_screen" >
+
+        
+
+        <AutoCompleteTextView
+            android:id="@+id/editText_source_long"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editText_source_latt"
+            android:layout_below="@+id/button_get_directions"
+            android:layout_marginTop="50dp"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:text="@string/prompt_source_longitude" >
+
+            <requestFocus />
+        </AutoCompleteTextView>
+
+        <AutoCompleteTextView
+            android:id="@+id/editText_source_latt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/editText_source_long"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="17dp"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:text="@string/prompt_source_lattitude" />
+
+        <AutoCompleteTextView
+            android:id="@+id/editText_dest_long"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editText_source_latt"
+            android:layout_below="@+id/editText_source_latt"
+            android:layout_marginTop="21dp"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:text="@string/Prompt_Destination_long" />
+
+        <AutoCompleteTextView
+            android:id="@+id/editText_dest_latt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editText_dest_long"
+            android:layout_below="@+id/editText_dest_long"
+            android:layout_marginTop="19dp"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:text="@string/Prompt_Destination_lattitude" />
+    </RelativeLayout>
+
+</FrameLayout>

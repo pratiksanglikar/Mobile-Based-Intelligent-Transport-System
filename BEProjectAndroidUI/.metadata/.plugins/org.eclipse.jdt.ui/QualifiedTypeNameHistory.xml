@@ -10,6 +10,6 @@
 <fullyQualifiedTypeName name="android.widget.AutoCompleteTextView"/>
 <fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
 <fullyQualifiedTypeName name="android.widget.Toast"/>
-<fullyQualifiedTypeName name="edu.pict.theparsteam.beproject.MapsActivity"/>
 <fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="edu.pict.theparsteam.beproject.MapsActivity"/>
 </qualifiedTypeNameHistroy>
